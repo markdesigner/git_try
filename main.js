@@ -4,5 +4,5 @@ function test(){
     console.log('3');
     console.log('function 1')
     console.log('function2');
-    
+    console.log('new Consoleg')
 }
